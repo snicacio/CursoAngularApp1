@@ -18,4 +18,5 @@ import { PainelComponent } from './painel/painel.component'
   providers: [],
   bootstrap: [AppComponent]
 })
+
 export class AppModule { }
